@@ -1,0 +1,10 @@
+# EComm.Web.API/bin
+# EComm.Model/bin
+# EComm.DataAccess/bin
+# EComm.Web.API/obj
+# EComm.Model/obj
+# EComm.DataAccess/obj
+bin
+obj
+.vscode
+appsettings.json
